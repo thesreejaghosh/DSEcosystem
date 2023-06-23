@@ -2,4 +2,6 @@
 
 ##Editing the file
 
-IBM Course Assignment: Create and share first Jupyter Notebook (DataScienceEcosystem.ipynb)
+It's a markdown file in the repository.
+
+By Sreeja Ghosh.
